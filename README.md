@@ -26,7 +26,7 @@
 
 ### Stats 
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavTheOG&show_icons=true&theme=cobalt) &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavTheOG&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavTheOG&show_icons=true&theme=cobalt) &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavTheOG&theme=cobalt)] 
 
 
 ### 📫 How to reach me:
