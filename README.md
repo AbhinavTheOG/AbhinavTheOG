@@ -8,7 +8,7 @@
 - 🌱  I’m currently learning cloud computing
 - 🥅  2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to draw, play guitar and working out
+- ⚡ Fun fact: I love to draw, play guitar and work out
 
 
 ### Development Tools 
